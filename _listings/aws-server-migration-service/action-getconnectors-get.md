@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetConnectors&k=1:
+  /?Action=GetConnectors:
     get:
       summary: ' Get Connectors '
       description: The get-connectors API returns a list of connectors that are registered
