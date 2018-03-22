@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StartOnDemandReplicationRun&k=1:
+  /?Action=StartOnDemandReplicationRun:
     get:
       summary: ' Start On Demand Replication Run '
       description: The start-on-demand-replication-run API is used to start a ReplicationRun
