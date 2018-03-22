@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetReplicationRuns&k=1:
+  /?Action=GetReplicationRuns:
     get:
       summary: ' Get Replication Runs '
       description: The get-replication-runs API will return all ReplicationRuns for
