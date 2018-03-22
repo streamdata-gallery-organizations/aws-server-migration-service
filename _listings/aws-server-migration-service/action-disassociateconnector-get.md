@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DisassociateConnector&k=1:
+  /?Action=DisassociateConnector:
     get:
       summary: ' Disassociate Connector '
       description: The disassociate-connector API will disassociate a connector from
