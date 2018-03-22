@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ImportServerCatalog&k=1:
+  /?Action=ImportServerCatalog:
     get:
       summary: ' Import Server Catalog '
       description: The import-server-catalog API is used to gather the complete list
