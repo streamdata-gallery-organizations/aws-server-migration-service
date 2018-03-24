@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-server-migration-service.api.streamdata.gallery
+title: Streamdata Gallery AWS Server Migration Service
+url: aws-server-migration-service.streamdata.gallery
 tag: AWS Server Migration Service
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-server-migration-service
 github_branch: master
 collections:
