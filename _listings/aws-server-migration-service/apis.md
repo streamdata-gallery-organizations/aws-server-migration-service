@@ -12,8 +12,8 @@ tags:
 - Migration
 - Database
 - Amazon Web Services
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-server-migration-service/master/_listings/aws-server-migration-service/apis.yaml
 specificationVersion: "0.14"
 apis:
