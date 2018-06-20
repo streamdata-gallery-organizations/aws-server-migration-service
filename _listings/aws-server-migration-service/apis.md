@@ -7,10 +7,10 @@ description: AWS Server Migration Service (SMS) is an agentless service which ma
   live server volumes, making it easier for you to coordinate large-scale server migrations.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AMI.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Server Migration Service
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-server-migration-service/master/_listings/aws-server-migration-service/apis.md
 specificationVersion: "0.14"
 apis:
