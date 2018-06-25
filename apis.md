@@ -5,7 +5,7 @@ description: This is a repository of aws server migration service APIs, self-con
   surrounding operations.
 image: http://template.streamdata.gallery/assets/aws-server-migration-service.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://aws-server-migration-service.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
