@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AWS Server Migration Service",
+	"description": "This is a repository of aws server migration service APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aws-server-migration-service.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://aws-server-migration-service.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AWS Server Migration Service",
+			"x-api-slug": "aws-server-migration-service",
+			"description": "AWS Server Migration Service (SMS) is an agentless service which makes it easier and faster for you to migrate thousands of on-premises workloads to AWS. AWS SMS allows you to automate, schedule, and track incremental replications of live server volumes, making it easier for you to coordinate large-scale server migrations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AMI.png",
+			"humanURL": "https://aws.amazon.com/server-migration-service/",
+			"baseURL": ":///",
+			"tags": "AWS Server Migration Service",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-server-migration-service/master/_listings/aws-server-migration-service/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AWS Server Migration Service",
+	"include": [
+		{
+			"name": "AWS Server Migration Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-server-migration-service/master/_listings/aws-server-migration-service/apis.yaml"
+		}
+	]
+}
